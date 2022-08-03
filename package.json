@@ -1,0 +1,24 @@
+{
+  "name": "chatnodejs",
+  "version": "1.0.0",
+  "description": "Simple chat with web socket + nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MicaelDev/chatNodeJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MicaelDev/chatNodeJs/issues"
+  },
+  "homepage": "https://github.com/MicaelDev/chatNodeJs#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^4.5.1"
+  }
+}
